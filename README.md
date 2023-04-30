@@ -209,19 +209,20 @@
 
 
 ## 交流共享
-群满加我微信(备注github-ChatGPT), 行路难，感谢老板随意赏~  
+行路难，感谢老板随意赏~  
 
-<img src="pic/dalinvip.jpeg" width="15%" height="15%" /> <img src="pic/dalinvip打赏.jpeg" width="20%" height="20%" />   
+<img src="pic/WechatIMG117.jpeg.jpeg" width="20%" height="20%" />   
 
 
 ## 关于我
-大林，NLP/知识图谱算法工程师  
-v: dalinvip2023
+《你今天AI了吗》栏目作者，累计在互联网发布原创内容2000+，目前在美国读研。
+微信：355426697
 
-### Star History
+## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=dalinvip/Awesome-ChatGPT&type=Timeline)](https://star-history.com/#dalinvip/Awesome-ChatGPT&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=star-history/star-history&type=Date)](https://star-history.com/#star-history/star-history&Date)
+
 
 # ⚠️声明
 以上资料来自网络整理，供大家学习参考，如有侵权，麻烦联系我删除！  
-v: dalinvip2023  
+微信：355426697 
