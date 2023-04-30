@@ -211,7 +211,7 @@
 ## 交流共享
 行路难，感谢老板随意赏~  
 
-<img src="pic/WechatIMG117.jpeg.jpeg" width="20%" height="20%" />   
+<img src="pic/WechatIMG117.jpeg" width="20%" height="20%" />   
 
 
 ## 关于我
