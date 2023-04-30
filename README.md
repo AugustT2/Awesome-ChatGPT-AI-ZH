@@ -1,7 +1,5 @@
 # Awesome-ChatGPT-AI-ZH
 
-<p align="center"><h1>🧠 Awesome-ChatGPT </h1></p>
-
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Stars](https://img.shields.io/github/stars/dalinvip/Awesome-ChatGPT)](https://github.com/dalinvip/Awesome-ChatGPT) [![Issues](https://img.shields.io/github/issues/dalinvip/Awesome-ChatGPT)](https://github.com/dalinvip/Awesome-ChatGPT/issues)
 
 全网曝光超1000万的「AI 知识库」正式移步Github开源，永久免费更新
