@@ -24,7 +24,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 - Prompt提示词已经是不可忽略的一部分，必须掌握的一些资料
 - AI高质量文章收录
 - 2000+人交流社群  
-- 地址：https://szqxz4m7fs.feishu.cn/wiki/wikcnMJ5qdVdOJ03XsBZFuXIRkf
+- 地址：https://ssw9noe1h6.feishu.cn/wiki/wikcn59pPXfAiF1ONajdPzvhA9d
 
 
 ## 交流共享
