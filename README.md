@@ -1068,7 +1068,7 @@ ChatGPT的强大能力是显而易见的，但对于人工智能领域不太熟�
 
 建立知识星球也是对自己学习的敦促，也希望能与智慧的你们一起把握时代机遇，预见未来，遇见更好的自己！
 
-加入链接：https://t.zsxq.com/0c5E3vvjM
+加入链接：https://t.zsxq.com/0dwuMW6NA
 
 或者微信扫码
 
@@ -1079,8 +1079,8 @@ ChatGPT的强大能力是显而易见的，但对于人工智能领域不太熟�
 
 欢迎加入电报交流群讨论 ChatGPT 相关资源及日常使用等相关话题：
 
-- 🚀[电报频道：ChatGPT 精选](https://t.me/AwesomeChatGPT)🚀
-- 🚀[电报交流群：ChatGPT 精选 Chat](https://t.me/+cBIhxVSwABg4Y2M5)🚀
+- 🚀[更新维护中]()🚀
+- 🚀[更新维护中]()🚀
 
 ### 微信公众号
 
@@ -1090,7 +1090,7 @@ ChatGPT的强大能力是显而易见的，但对于人工智能领域不太熟�
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yzfly/awesome-chatgpt-zh&type=Date)](https://star-history.com/#yzfly/awesome-chatgpt-zh&Date)
+[![Star History Chart]()
 
 
 ## 贡献指南
@@ -1109,12 +1109,6 @@ ChatGPT的强大能力是显而易见的，但对于人工智能领域不太熟�
 - [awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt)，因为他们在 ChatGPT 方面的出色工作。
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompt)，因为他们提供了一系列有趣的 ChatGPT 提示。
 
-
-我们非常感谢所有为这个项目做出贡献的个人，你们的努力和付出使这个项目不断进步和发展：
-
-- [SlimeNull](https://github.com/SlimeNull)
-- [SimFG](https://github.com/SimFG)
-- [wzpan](https://github.com/wzpan)
 
 如果您做出了重大贡献并希望得到认可，请随时与我们联系或提交一个更新此部分的 Pull Request。
 
