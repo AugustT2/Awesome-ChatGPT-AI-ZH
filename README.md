@@ -340,7 +340,7 @@ MOSS是一个支持中英双语和多种插件的开源对话语言模型，moss
 
 ## 如何与 ChatGPT 高效对话？——好的提示语学习
 
-### [中文 prompts 精选](https://github.com/yzfly/wonderful-prompts) 🔥
+### [中文 prompts 精选](https://ssw9noe1h6.feishu.cn/wiki/wikcnlAZIde89cZlrfvL1wFN33b) 🔥
 
 作者优化、精选了系列中文 ChatGPT Prompts，并提供图文使用示例，让大家能够更好的学习使用 ChatGPT。
 
