@@ -11,11 +11,15 @@
 
 ## 「AI 知识库」 永久免费更新
 目前知识库包括以下内容大纲，覆盖内容如下
-- 🎖️  ChatGPT 系列 ：基础知识、注册流程、登录问题解决、相关应用和插件、角色扮演 Prompt，国内大模型相关进展及其相关内测申请流程，百度、阿里、商汤、360、昆仑万维，国外谷歌、微软大模型进展、New Bing 相关问题、AutoGPT 安装教程，ChatGPT 赚钱、ChatGPT 写作、ChatGPT 编程系列等
-- 🎨 AI 绘画系列 ：特别是 Midjourney、Stable Diffusion 的安装和使用教程，关键词 Prompt，实践分享等
-- 🤵‍♀️ 数字人虚拟主播系列 ：创建一个虚拟数字人可以极大的缩短内容创作时间，他可以代替你出镜和说话
-- 📚 资料&产品推荐 ：一些老于觉得很有价值的资料和产品
-- 地址：https://ssw9noe1h6.feishu.cn/wiki/wikcn59pPXfAiF1ONajdPzvhA9d
+一、🎖️  ChatGPT 系列 
+二、🎨 AI 绘画系列 
+三、💎 AI 工具教程/实用技巧 
+四、🔧 AI 实用工具分享 
+五、💴 AI 应用场景/实战变现
+六、📕 AI 研报资料库（PDF） 
+七、🎟️ 交流社群 
+
+地址：https://ssw9noe1h6.feishu.cn/wiki/wikcn59pPXfAiF1ONajdPzvhA9d
 
 
 ## 交流共享
