@@ -12,11 +12,17 @@
 ## 「AI 知识库」 永久免费更新
 目前知识库包括以下内容大纲，覆盖内容如下
 一、🎖️  ChatGPT 系列 
+
 二、🎨 AI 绘画系列 
+
 三、💎 AI 工具教程/实用技巧 
+
 四、🔧 AI 实用工具分享 
+
 五、💴 AI 应用场景/实战变现
+
 六、📕 AI 研报资料库（PDF） 
+
 七、🎟️ 交流社群 
 
 地址：https://ssw9noe1h6.feishu.cn/wiki/wikcn59pPXfAiF1ONajdPzvhA9d
